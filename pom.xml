@@ -56,7 +56,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <!-- This is main class of your program which will be executed-->
-                            <mainClass>LedgerMain</mainClass>
+                            <mainClass>com.ledger.main.LedgerMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
